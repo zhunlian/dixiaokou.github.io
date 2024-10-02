@@ -37,3 +37,5 @@ https://t.me/p_bill_bot?start=6744285589
 https://t.me/p_bill_bot?start=6744285589
 #### 18.搜狗机器人
 https://t.me/p_bill_bot?start=6744285589
+#### 19.黑色-blackBox社工库
+https://t.me/BOXsgkbot?start=1gVgN3F
