@@ -1,5 +1,4 @@
-# dixiaokou.github.io
-2024年有效免费社工库
+# 2024年有效免费社工库
 
 1.约翰社工库
 https://t.me/yuehanbot?start=6744285589ezpldp
